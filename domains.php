@@ -51,7 +51,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -60,7 +60,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -69,7 +69,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -78,7 +78,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">70,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -87,7 +87,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -96,7 +96,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -105,7 +105,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -114,7 +114,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -123,7 +123,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -132,7 +132,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -141,7 +141,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -150,7 +150,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">130,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -159,7 +159,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">110,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -168,7 +168,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">70,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -177,7 +177,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">80,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -186,7 +186,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="/order/domain-registration">Register Now</a></div>
 </div>
 </div>
 

@@ -75,7 +75,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-25gb"
+                        <a href="/order/acronis-25gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -88,7 +88,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-50gb"
+                        <a href="/order/acronis-50gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -102,7 +102,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-100gb"
+                        <a href="/order/acronis-100gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -115,7 +115,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-250gb"
+                        <a href="/order/acronis-250gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -128,7 +128,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-500gb"
+                        <a href="/order/acronis-500gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -141,7 +141,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="https://core.code-panda.online/store/acronis/acronis-1tb"
+                        <a href="/order/acronis-1tb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
             </div>
@@ -530,7 +530,7 @@
                                 even access permissions. Restore data as needed in just seconds, avoiding downtime and
                                 ensuring business continuity.</p>
                             <div>
-                                <a href="https://core.code-panda.online/" class="btn btn-primary rounded-0 px-3">Pricing</a>
+                                <a href="/" class="btn btn-primary rounded-0 px-3">Pricing</a>
                                 <a href="contact.html" class="btn btn-outline-primary rounded-0 px-3">Contact Us</a>
                             </div>
                         </div>
@@ -548,7 +548,7 @@
                                 Drive, Calendar, and Contacts. Back up data from Googleâ€™s own data centers directly to
                                 highly secure Acronis Cloud Storage.</p>
                             <div>
-                                <a href="https://core.code-panda.online/" class="btn btn-primary rounded-0 px-3">Pricing</a>
+                                <a href="/" class="btn btn-primary rounded-0 px-3">Pricing</a>
                                 <a href="contact.html" class="btn btn-outline-primary rounded-0 px-3">Contact Us</a>
                             </div>
                         </div>
@@ -563,7 +563,7 @@
                             <h5>Workstation Backup</h5>
                             <p>Designed specifically for medium business environments, Acronis Backup Advanced provides world-class data protection, fast and flexible disaster recovery for all systems in your environment regardless of the system complexity.</p>
                             <div>
-                                <a href="https://core.code-panda.online/" class="btn btn-primary rounded-0 px-3">Pricing</a>
+                                <a href="/" class="btn btn-primary rounded-0 px-3">Pricing</a>
                                 <a href="contact.html" class="btn btn-outline-primary rounded-0 px-3">Contact Us</a>
                             </div>
                         </div>
@@ -761,7 +761,7 @@
                     <div class="col-12 col-md-6 h-100">
                         <div class="px-md-4 py-5">
                             <h4 class="mb-3 text-white">Sign up for <br> Acronis Cyber Protection now </h4>
-                            <a href="https://core.code-panda.online/" class="btn btn-outline-light px-4">Pricing</a>
+                            <a href="/" class="btn btn-outline-light px-4">Pricing</a>
                             <a href="contact.html" class="btn btn-outline-light px-3">Contact Us</a></div>
                     </div>
                 </div>

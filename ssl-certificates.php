@@ -92,7 +92,7 @@
 
                         <div class="">
 
-                            <a href="https://core.code-panda.online/store/ssl-certificates/go/dv" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <a href="/order/dv-ssl" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
 
                         </div>
 
@@ -132,7 +132,7 @@
 
                         <div class="">
 
-                            <a href="https://core.code-panda.online/store/ssl-certificates/go/ov" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <a href="/order/ov-ssl" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
 
                         </div>
 
@@ -172,7 +172,7 @@
 
                         <div class="">
 
-                            <a href="https://core.code-panda.online/store/ssl-certificates/go/ev" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <a href="/order/ev-ssl" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
 
                         </div>
 
