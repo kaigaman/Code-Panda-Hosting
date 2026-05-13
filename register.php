@@ -13,13 +13,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $error = 'Please fill in all required fields.';
     } elseif ($password !== $confirm) {
         $error = 'Passwords do not match.';
-    } elseif (strlen($password) < 6) {
-        $error = 'Password must be at least 6 characters.';
+    } elseif (strlen($password) < 8) {
+        $error = 'Password must be at least 8 characters with an uppercase letter.';
     } else {
         $payload = json_encode([
-            'first_name' => $first_name,
-            'email'      => $email,
-            'password'   => $password,
+            'first_name'       => $first_name,
+            'email'            => $email,
+            'password'         => $password,
+            'password_confirm' => $confirm,
         ]);
 
         $ch = curl_init('https://core.code-panda.online/api/guest/client/create');
@@ -89,13 +90,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <div class="col-md-6">
                                     <div class="input-field">
                                         <label for="password" class="form-label fw-bold">Password <span class="text-danger">*</span></label>
-                                        <input type="password" class="form-control" name="password" id="password" placeholder="Min. 6 characters" required minlength="6">
+                                        <input type="password" class="form-control" name="password" id="password" placeholder="Min. 8 characters, 1 uppercase" required minlength="8">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="input-field">
                                         <label for="confirm_password" class="form-label fw-bold">Confirm Password <span class="text-danger">*</span></label>
-                                        <input type="password" class="form-control" name="confirm_password" id="confirm_password" placeholder="Repeat password" required minlength="6">
+                                        <input type="password" class="form-control" name="confirm_password" id="confirm_password" placeholder="Repeat password" required minlength="8">
                                     </div>
                                 </div>
                             </div>
