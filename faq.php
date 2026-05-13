@@ -398,7 +398,7 @@
 
                                 <div class="accordion-body">
 
-                                    <p class="mb-0">If you have time left on your domain's registration and you choose to transfer the registrar to Code Panda Computers, your remaining time is added to the one year of registration that we provide. For example, assume your domain has 6 months left until it expires. You transfer the domain registrar to crystalwebhosting. At this point, you will have 1.5 years of time left until the domain registration expires.</p>
+                                    <p class="mb-0">If you have time left on your domain's registration and you choose to transfer the registrar to Code Panda Computers, your remaining time is added to the one year of registration that we provide. For example, assume your domain has 6 months left until it expires. You transfer the domain registrar to Code Panda Computers. At this point, you will have 1.5 years of time left until the domain registration expires.</p>
 
                                 </div>
 

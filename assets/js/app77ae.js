@@ -540,7 +540,7 @@
     
     let domain = $("#" + $(this)[0].id + " input[name=domain]").val();
     let action = $("#" + $(this)[0].id + " input[name=action]").val();
-    let url = "https://core.crystalwebhosting.com/cart.php?a=add&domain="+action+"&query="+domain;
+    let url = "https://core.code-panda.online/cart.php?a=add&domain="+action+"&query="+domain;
 
     window.location.replace(url);
     return true;

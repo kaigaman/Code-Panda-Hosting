@@ -1,14 +1,148 @@
 ﻿<!DOCTYPE html>
-<html style="height:100%">
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 404 Not Found
-</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Not Found
-</h2>
-<p>The resource requested could not be found on this server!</p>
-</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
-<br>Proudly powered by LiteSpeed Web Server<p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#40e0d0" />
+    <title>Bulk Domain Search | Code Panda Computers</title>
+    <meta name="description" content="Search for multiple domains at once. Check availability for hundreds of domain extensions at Code Panda Computers." />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/custom.css" />
+</head>
+<body>
+<div id="app">
+    <section class="sh-hero-section position-relative zindex-1 overflow-hidden page-header style-2">
+        <div class="position-absolute h-100 w-100 top-0 bg-overlay"></div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7 order-2 order-lg-1 ptb-50 text-primary-dark position-relative">
+                    <div class="sh-hero-left mt-5 mt-lg-0">
+                        <h1 class="text-primary-dark">Bulk Domain Search</h1>
+                        <p class="lead mt-4 mb-3">Search up to 10 domains at once. Find the perfect name for your business.</p>
+                        <form id="bulkDomainChecker" class="mb-3">
+                            <div class="mb-3">
+                                <textarea id="bulkDomains" rows="5" class="form-control" placeholder="Enter domain names, one per line&#10;e.g.:&#10;mybusiness.com&#10;mybusiness.net&#10;mybusiness.co.ug"></textarea>
+                            </div>
+                            <button type="submit" class="template-btn primary-btn border-0">Check Availability</button>
+                        </form>
+                        <div id="bulkDomainResults"></div>
+                    </div>
+                </div>
+                <div class="col-lg-5 order-2 order-lg-1"></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ptb-50 bg-white">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h3>Popular Domain Extensions</h3>
+                    <p>Check prices for all available domain extensions</p>
+                </div>
+            </div>
+            <div class="row justify-content-center g-4 mt-3">
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                    <div class="dm-pp-domain-item position-relative overflow-hidden zindex-1 text-center p-4 border rounded">
+                        <h3>.com</h3>
+                        <h5 class="mt-0 text-primary">40,000 Ugx</h5>
+                        <span class="subtitle">Per year</span>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                    <div class="dm-pp-domain-item position-relative overflow-hidden zindex-1 text-center p-4 border rounded">
+                        <h3>.org</h3>
+                        <h5 class="mt-0 text-primary">40,000 Ugx</h5>
+                        <span class="subtitle">Per year</span>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                    <div class="dm-pp-domain-item position-relative overflow-hidden zindex-1 text-center p-4 border rounded">
+                        <h3>.net</h3>
+                        <h5 class="mt-0 text-primary">40,000 Ugx</h5>
+                        <span class="subtitle">Per year</span>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
+                    <div class="dm-pp-domain-item position-relative overflow-hidden zindex-1 text-center p-4 border rounded">
+                        <h3>.co.ug</h3>
+                        <h5 class="mt-0 text-primary">100,000 Ugx</h5>
+                        <span class="subtitle">Per year</span>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center mt-4">
+                <a href="domains.php" class="template-btn primary-btn">View All Domain Prices</a>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script src="assets/js/vendors/jquery.min.js"></script>
+<script>
+(function($) {
+    "use strict";
+    $("#bulkDomainChecker").on("submit", function(e) {
+        e.preventDefault();
+        var input = $("#bulkDomains").val().trim();
+        var domains = input.split('\n').map(function(d) { return d.trim(); }).filter(function(d) { return d.length > 0; });
+        var $results = $("#bulkDomainResults");
+
+        if (domains.length === 0) {
+            $results.html('<div class="alert alert-warning mt-3">Please enter at least one domain.</div>');
+            return;
+        }
+        if (domains.length > 10) {
+            $results.html('<div class="alert alert-warning mt-3">Please enter a maximum of 10 domains.</div>');
+            return;
+        }
+
+        $results.html('<div class="alert alert-info mt-3">Checking ' + domains.length + ' domain(s)...</div>');
+        var results = [];
+        var completed = 0;
+
+        domains.forEach(function(domain, index) {
+            $.ajax({
+                url: "./domain-checker.php",
+                data: { domain: domain, action: "register" },
+                type: "GET",
+                dataType: "json",
+                success: function(res) {
+                    results[index] = res;
+                },
+                error: function() {
+                    results[index] = { status: "error", domain: domain, message: "Check failed" };
+                },
+                complete: function() {
+                    completed++;
+                    if (completed === domains.length) {
+                        var html = '<div class="mt-3"><h5>Results:</h5><div class="list-group">';
+                        results.forEach(function(r) {
+                            if (r.status === "available") {
+                                html += '<div class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">';
+                                html += '<span><strong>' + r.domain + '</strong> <span class="badge bg-success ms-2">Available</span>';
+                                if (r.price) html += ' <span class="text-muted small ms-2">' + r.price + '/yr</span>';
+                                html += '</span>';
+                                html += '<a href="' + r.whmcs_url + '" class="btn btn-sm btn-primary" target="_blank">Register</a>';
+                                html += '</div>';
+                            } else if (r.status === "unavailable") {
+                                html += '<div class="list-group-item d-flex justify-content-between align-items-center">';
+                                html += '<span><strong>' + r.domain + '</strong> <span class="badge bg-warning ms-2">Taken</span></span>';
+                                html += '</div>';
+                            } else {
+                                html += '<div class="list-group-item d-flex justify-content-between align-items-center">';
+                                html += '<span><strong>' + r.domain + '</strong> <span class="badge bg-danger ms-2">Error</span></span>';
+                                html += '</div>';
+                            }
+                        });
+                        html += '</div></div>';
+                        $results.html(html);
+                    }
+                }
+            });
+        });
+    });
+})(jQuery);
+</script>
+</body>
+</html>

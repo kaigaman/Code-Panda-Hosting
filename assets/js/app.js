@@ -536,35 +536,51 @@
 
   $("body").on("submit", "#domainChecker", function (e) {
     e.preventDefault();
-    console.log(this);
-    
-    let domain = $("#" + $(this)[0].id + " input[name=domain]").val();
-    let action = $("#" + $(this)[0].id + " input[name=action]").val();
-    let url = "https://core.crystalwebhosting.com/cart.php?a=add&domain="+action+"&query="+domain;
+    let $form = $(this);
+    let domain = $form.find("input[name=domain]").val();
+    let action = $form.find("input[name=action]").val() || "register";
+    let $results = $form.closest("form").siblings("#domainSearchResults").length
+      ? $form.closest("form").siblings("#domainSearchResults")
+      : $("#domainSearchResults");
 
-    window.location.replace(url);
-    return true;
-    let elm = {
-      status: $("#domainSearchResults"),
-    };
+    $results.html('<div class="alert alert-info mt-3">Searching...</div>');
 
     $.ajax({
-      url: "./domain-checker.php?domain=" + domain +"&action="+ action,
+      url: "./domain-checker.php",
+      data: { domain: domain, action: action },
       type: "GET",
-      dataType: "html",
-      processData: false,
-      contentType: false,
-      beforeSend: function() {
-        elm.status.html("searching...");
+      dataType: "json",
+      success: function(res) {
+        if (res.status === "error") {
+          $results.html('<div class="alert alert-danger mt-3">' + res.message + '</div>');
+          return;
+        }
+        let html = '<div class="domain-result mt-3 p-3 rounded border">';
+        if (res.status === "available") {
+          html += '<div class="alert alert-success mb-2">';
+          html += '<strong>' + res.domain + '</strong> is available!';
+          if (res.price) {
+            html += ' <span class="badge bg-primary ms-2">' + res.price + '/yr</span>';
+          }
+          html += '</div>';
+          html += '<a href="' + res.whmcs_url + '" class="btn btn-primary btn-sm" target="_blank">';
+          html += 'Proceed to ' + (action === "transfer" ? "Transfer" : "Register") + '</a>';
+        } else {
+          html += '<div class="alert alert-warning mb-2">';
+          html += '<strong>' + res.domain + '</strong> is not available.</div>';
+          if (res.suggestions && res.suggestions.length) {
+            html += '<p class="mb-1 small fw-bold">Suggestions:</p><ul class="list-unstyled mb-0">';
+            $.each(res.suggestions, function(i, s) {
+              html += '<li class="mb-1"><a href="' + s.url + '" target="_blank">' + s.domain + '</a> <span class="text-muted small">' + s.price + '</span></li>';
+            });
+            html += '</ul>';
+          }
+        }
+        html += '</div>';
+        $results.html(html);
       },
-      error: function(error) {
-        elm.status.html( error.responseText);
-      },
-      success: function(response) {
-        elm.status.html(response);
-      },
-      complete: function() {
-        elm.status.removeClass("loading");
+      error: function() {
+        $results.html('<div class="alert alert-danger mt-3">Could not check domain. Please try again.</div>');
       }
     });
   });

@@ -28,6 +28,8 @@
 
                         <form id="domainChecker" class="mb-3 dm-hero-domain-form d-flex align-items-center border border-primary rounded-pill">
 
+                            <input name="action" type="hidden" value="register" />
+
                             <label for="domainRegistrationSearchInput" class="d-none"></label>
 
                             <input id="domainRegistrationSearchInput" type="text" name="domain" value="" minlength="5" maxlength="100" placeholder="Search Domain Name">
@@ -44,7 +46,7 @@
 
                         </div>
 
-                        <a href="cart.html" class="template-btn primary-btn rounded-pill">Get Started Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="template-btn primary-btn rounded-pill">Get Started Now</a>
 
                     </div>
 
@@ -96,7 +98,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -118,7 +120,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -140,7 +142,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -162,7 +164,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -184,7 +186,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -206,7 +208,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -226,7 +228,7 @@
 
                         <span class="subtitle">Per year</span>
 
-                        <a href="cartb090.html?package=" class="btn btn-outline-primary px-4">Register Now</a>
+                        <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 

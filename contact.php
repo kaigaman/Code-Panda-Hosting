@@ -41,7 +41,7 @@
                                 <h6 class="ms-2">Telephone</h6>
                             </div>
                             <div class="info-content">
-                                <span>+256 701666661 <br> +256 752666661<br>+256 776166668</span>
+                                <span>+256707465311 <br> +256393228164<br>0772973361</span>
                             </div>
                         </div>
                         <div class="hm-ct-info-wrapper">

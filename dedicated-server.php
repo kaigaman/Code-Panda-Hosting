@@ -401,7 +401,7 @@
                             <p>Contact one of our friendly technical advisors now. Our team is available 24x7 via live chat and is ready to answer any questions.</p>
                             <div class="ds-cta-bottom d-flex align-items-center mt-30 flex-wrap">
                                 <a href="contact.html" class="template-btn primary-btn">Live Chat With Sales</a>
-                                <a href="tel:+256701666661" class="cta-phone-btn d-flex align-items-center"><span class="me-2 d-flex align-items-center justify-content-center rounded-circle"><i class="fa-solid fa-phone text-primary-light"></i></span>+256707465311</a>
+                                <a href="tel:+256707465311" class="cta-phone-btn d-flex align-items-center"><span class="me-2 d-flex align-items-center justify-content-center rounded-circle"><i class="fa-solid fa-phone text-primary-light"></i></span>+256707465311</a>
                             </div>
                         </div>
                     </div>

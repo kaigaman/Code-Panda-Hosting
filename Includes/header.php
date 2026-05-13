@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#67a223" />
+    <meta name="theme-color" content="#40e0d0" />
     <title><?php echo isset($page_title) ? $page_title : 'Webhosting &amp; Domain Registration - Code Panda Computers'; ?></title>
     <meta name="description" content="<?php echo isset($page_description) ? $page_description : 'Code Panda Computers provides fast, reliable, affordable web hosting with 99.9% uptime guaranteed.'; ?>" />
     <meta name="keywords" content="<?php echo isset($page_keywords) ? $page_keywords : 'web hosting Uganda, domain registration, Code Panda Computers'; ?>" />

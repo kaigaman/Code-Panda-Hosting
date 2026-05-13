@@ -1,5 +1,39 @@
 <?php require_once "includes/config.php"; ?>
 <?php $page_title = 'Whois | Code Panda Computers'; ?>
+
+<?php
+$whois_result = '';
+$searched_domain = '';
+
+if (isset($_GET['q']) && !empty(trim($_GET['q']))) {
+    $searched_domain = trim($_GET['q']);
+    $domain = strtolower($searched_domain);
+    $domain = preg_replace('/^https?:\/\//', '', $domain);
+    $domain = preg_replace('/^www\./', '', $domain);
+    $domain = preg_replace('/\s/', '', $domain);
+
+    if (preg_match('/^[a-z0-9]([a-z0-9\-]*[a-z0-9])?(\.[a-z]{2,})+$/', $domain)) {
+        $whois_result = '<div class="alert alert-success">WHOIS data for <strong>' . htmlspecialchars($domain) . '</strong>:</div>';
+        $whois_result .= '<div class="whois-data p-3 bg-light rounded"><pre style="white-space:pre-wrap;font-size:13px;max-height:400px;overflow-y:auto;">';
+
+        $whois_output = @shell_exec('whois ' . escapeshellarg($domain) . ' 2>&1');
+        if ($whois_output && strlen(trim($whois_output)) > 10) {
+            $whois_result .= htmlspecialchars($whois_output);
+        } else {
+            $whois_result .= "Domain: " . htmlspecialchars($domain) . "\n";
+            $whois_result .= "Status: " . (checkdnsrr($domain, 'ANY') ? "Registered" : "Available") . "\n";
+            $whois_result .= "Note: Full WHOIS lookup requires the 'whois' command to be installed on the server.\n";
+            $whois_result .= "For detailed WHOIS data, please use our contact form for assistance.\n";
+        }
+
+        $whois_result .= '</pre></div>';
+        $whois_result .= '<div class="mt-3"><a href="https://core.code-panda.online/cart.php?a=add&domain=register&query=' . urlencode($domain) . '" class="btn btn-primary">Register This Domain</a></div>';
+    } else {
+        $whois_result = '<div class="alert alert-danger mt-3">Invalid domain format. Please enter a valid domain (e.g., example.com).</div>';
+    }
+}
+?>
+
 <?php include "includes/header.php"; ?>
 
 <section class="sh-hero-section position-relative zindex-1 overflow-hidden page-header style-2">
@@ -94,13 +128,13 @@
 
                         <div class="mb-5">
 
-                            <form action="#">
+                            <form action="whois.php" method="GET">
 
                                 <div class="mb-3">
 
                                     <div class="input-group">
 
-                                        <input type="text" name="q" value="" class="form-control" placeholder="enter your domain">
+                                        <input type="text" name="q" value="<?php echo htmlspecialchars($searched_domain); ?>" class="form-control" placeholder="enter your domain">
 
                                         <button class="btn btn-secondary">Search</button>
 
@@ -109,6 +143,12 @@
                                 </div>
 
                             </form>
+
+                            <?php if ($whois_result): ?>
+                            <div class="mt-4 text-start">
+                                <?php echo $whois_result; ?>
+                            </div>
+                            <?php endif; ?>
 
                         </div>
 

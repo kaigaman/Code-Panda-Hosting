@@ -94,7 +94,8 @@
                                 <div class="nav-link">
                                     <i class="fa fa-phone"></i><strong>Telephone</strong> <br>
                                     <?php echo $site_phone1; ?> <br>
-                                    <?php echo $site_phone2; ?>
+                                    <?php echo $site_phone2; ?> <br>
+                                    <?php echo $site_phone3; ?>
                                 </div>
                             </li>
                             <li class="nav-item">
