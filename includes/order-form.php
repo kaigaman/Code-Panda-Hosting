@@ -247,7 +247,7 @@
             <input type="number" class="qty" value="1" min="1">
         </div>
         <div class="product-item">
-            <label><input type="checkbox" class="order-cb" data-name="WHMCS License" data-price="15000"> WHMCS License - <strong>15,000 Ugx</strong>/mo</label>
+            <label><input type="checkbox" class="order-cb" data-name="FOSSBilling Setup" data-price="15000"> FOSSBilling Setup - <strong>15,000 Ugx</strong></label>
             <input type="number" class="qty" value="1" min="1">
         </div>
     </div>

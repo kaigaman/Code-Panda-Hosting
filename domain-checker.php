@@ -50,9 +50,9 @@ $name = $parts[0];
 $price = isset($tlds[$ext]) ? $tlds[$ext][$action] : null;
 
 if ($action === 'transfer') {
-    $whmcs_url = "https://core.code-panda.online/order/domain-transfer?domain=" . urlencode($domain);
+    $order_url = "https://core.code-panda.online/order/domain-transfer?domain=" . urlencode($domain);
 } else {
-    $whmcs_url = "https://core.code-panda.online/order/domain-registration?domain=" . urlencode($domain);
+    $order_url = "https://core.code-panda.online/order/domain-registration?domain=" . urlencode($domain);
 }
 
 $available = false;
@@ -83,6 +83,6 @@ echo json_encode([
     'domain' => $domain,
     'action' => $action,
     'price' => $price ? number_format($price) . ' Ugx' : null,
-    'whmcs_url' => $whmcs_url,
+    'order_url' => $order_url,
     'suggestions' => $search_suggestions
 ]);

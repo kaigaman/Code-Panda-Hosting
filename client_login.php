@@ -10,7 +10,7 @@
                     <div class="col-lg-6">
                         <div class="signup-form border shadow-sm bg-white">
                             <div class="form-header text-center">
-                                <h3 class="mt-3">Create Your Account</h3>
+                                <h3 class="mt-3">Client Login</h3>
                             </div>
                             <div class="signup-form-wrapper mt-40">
                                 <form method="post" action="https://core.code-panda.online/login" class="login-form" role="form">
@@ -45,7 +45,7 @@
                                     <a href="#" class="btn btn-twitter"><i class="fab fa-twitter"></i>Twitter</a>
                                 </div>
                                 <div class="page-redirect text-center mt-30">
-                                    <p>Don't have an account? <a href="signup.html">Signup</a></p>
+                                    <p>Don't have an account? <a href="register.php">Register</a></p>
                                 </div>
 
                             </div>

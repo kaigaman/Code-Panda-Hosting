@@ -1,5 +1,5 @@
 <?php
-function WhatsAppOrderBtn($product_name, $price = "", $whmcs_url = "") {
+function WhatsAppOrderBtn($product_name, $price = "", $order_url = "") {
     global $site_whatsapp;
     $message = "Hi Code Panda Computers, I'm interested in the " . $product_name;
     if ($price) {

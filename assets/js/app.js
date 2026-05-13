@@ -563,7 +563,7 @@
             html += ' <span class="badge bg-primary ms-2">' + res.price + '/yr</span>';
           }
           html += '</div>';
-          html += '<a href="' + res.whmcs_url + '" class="btn btn-primary btn-sm" target="_blank">';
+          html += '<a href="' + res.order_url + '" class="btn btn-primary btn-sm" target="_blank">';
           html += 'Proceed to ' + (action === "transfer" ? "Transfer" : "Register") + '</a>';
         } else {
           html += '<div class="alert alert-warning mb-2">';
