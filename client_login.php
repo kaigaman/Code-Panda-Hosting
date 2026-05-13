@@ -13,7 +13,7 @@
                                 <h3 class="mt-3">Create Your Account</h3>
                             </div>
                             <div class="signup-form-wrapper mt-40">
-                                <form method="post" action="/login" class="login-form" role="form">
+                                <form method="post" action="https://core.code-panda.online/login" class="login-form" role="form">
                                     <input type="hidden" name="token" value="">
                                     <div class="inpput-group-item">
                                         <label for="email">Email Address</label>

@@ -118,7 +118,7 @@
 
                         <div>
 
-                            <a href="/order/codeguard-basic" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/codeguard-basic" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
 
                         </div>
 
@@ -158,7 +158,7 @@
 
                         <div>
 
-                            <a href="/order/codeguard-professional" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/codeguard-professional" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
 
                         </div>
 
@@ -200,7 +200,7 @@
 
                         <div>
 
-                            <a href="/order/codeguard-premium" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/codeguard-premium" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
 
                         </div>
 
@@ -240,7 +240,7 @@
 
                         <div>
 
-                            <a href="/order/codeguard-enterprise" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/codeguard-enterprise" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
 
                         </div>
 

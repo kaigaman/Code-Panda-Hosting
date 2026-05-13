@@ -108,35 +108,35 @@
                                         <span class="crm-package-price crm_yearly_price">50,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">50,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="/order/economy-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/order/economy-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Deluxe </span>
                                         <span class="crm-package-price crm_yearly_price">80,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">80,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="/order/deluxe-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/order/deluxe-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Premium </span>
                                         <span class="crm-package-price crm_yearly_price">120,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">120,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="/order/premium-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/order/premium-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Ultra</span>
                                         <span class="crm-package-price crm_yearly_price">150,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">150,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="/order/ultra-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/order/ultra-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Corporate</span>
                                         <span class="crm-package-price crm_yearly_price">230,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">230,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="/order/corporate-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/order/corporate-web-hosting" class="btn btn-sm crm-package-btn">Order Now</a>
                                     </th>
                                 </tr>
                             </table>
@@ -805,7 +805,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/economy-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/economy-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -830,7 +830,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/deluxe-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/deluxe-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -855,7 +855,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/premium-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/premium-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -880,7 +880,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/ultra-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/ultra-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -905,7 +905,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/corporate-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/corporate-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>
@@ -929,7 +929,7 @@
                             </ul>
                             <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Features</button>
                             <div class="pt-3">
-                                <a href="/order/custom-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
+                                <a href="https://core.code-panda.online/order/custom-web-hosting" class="btn btn-outline-primary fw-bold">Add to Cart</a>
                             </div>
                         </div>
                     </div>

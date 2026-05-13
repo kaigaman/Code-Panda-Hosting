@@ -75,7 +75,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-25gb"
+                        <a href="https://core.code-panda.online/order/acronis-25gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -88,7 +88,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-50gb"
+                        <a href="https://core.code-panda.online/order/acronis-50gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -102,7 +102,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-100gb"
+                        <a href="https://core.code-panda.online/order/acronis-100gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -115,7 +115,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-250gb"
+                        <a href="https://core.code-panda.online/order/acronis-250gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -128,7 +128,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-500gb"
+                        <a href="https://core.code-panda.online/order/acronis-500gb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -141,7 +141,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-exchange"></i></span>Unlimited Backups</li>
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
-                        <a href="/order/acronis-1tb"
+                        <a href="https://core.code-panda.online/order/acronis-1tb"
                            class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
                 </div>
             </div>

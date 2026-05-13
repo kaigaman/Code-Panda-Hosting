@@ -52,7 +52,7 @@
                             <li>&nbsp;</li>
                         </ul>
                         <div>
-                            <a href="/order/basic" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/basic" class="btn btn-primary fw-bold px-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -73,7 +73,7 @@
                             <li>&nbsp;</li>
                         </ul>
                         <div>
-                            <a href="/order/sitelock-professional" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/sitelock-professional" class="btn btn-primary fw-bold px-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-check"></i></span>SQLi & XSS scan</li>
                         </ul>
                         <div>
-                            <a href="/order/premium" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <a href="https://core.code-panda.online/order/premium" class="btn btn-primary fw-bold px-4">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                                        <h4 class="mb-4 fw-bold">Is SiteLock Really Necessary For Me?</h4>
                                        <p>You might think that only large corporations are targets for hackers, but in fact the opposite is true. Since many small businesses leave their websites vulnerable to attack, theyâ€™re a potential goldmine for cyber-criminals.</p>
                                        <p>Hackers may target your website in an attempt to steal sensitive information, redistribute malware to your users, or simply to take your website offline. Prevention is much more effective than any cure, so SiteLock is ideal for securing small and medium-sized business websites.</p>
-                                       <a href="/order" class="btn btn-primary">Secure My Website</a>
+                                       <a href="https://core.code-panda.online/order" class="btn btn-primary">Secure My Website</a>
                                    </div>
                                </div>
                                <div class="col-12 col-lg-5 border-start hover-up bg-primary-gradient rounded-end">
@@ -141,7 +141,7 @@
                         <h4>Why choose SiteLock?</h4>
                         <p>SiteLock protects your website with Daily Vulnerability Scanning, which identifies vulnerabilities and protects websites and visitors against threats. The SiteLockâ„¢ Trust Seal, included with all SiteLock subscriptions, provides customer confidence and is proven to increase sales and conversion rates.</p>
                         <p>Every time shoppers place an order, they trust you to keep them safe from hackers who steal information or spread spyware and viruses. SiteLock not only finds malware, but also identifies the security gaps hackers use to break in and keeps harmful traffic away for good.</p>
-                        <a href="/order" class="btn btn-primary">Get Started</a>
+                        <a href="https://core.code-panda.online/order" class="btn btn-primary">Get Started</a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6">

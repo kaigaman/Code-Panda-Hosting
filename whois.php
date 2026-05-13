@@ -27,7 +27,7 @@ if (isset($_GET['q']) && !empty(trim($_GET['q']))) {
         }
 
         $whois_result .= '</pre></div>';
-        $whois_result .= '<div class="mt-3"><a href="/order/domain-registration?domain=' . urlencode($domain) . '" class="btn btn-primary">Register This Domain</a></div>';
+        $whois_result .= '<div class="mt-3"><a href="https://core.code-panda.online/order/domain-registration?domain=' . urlencode($domain) . '" class="btn btn-primary">Register This Domain</a></div>';
     } else {
         $whois_result = '<div class="alert alert-danger mt-3">Invalid domain format. Please enter a valid domain (e.g., example.com).</div>';
     }
