@@ -44,7 +44,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="topbar-right text-end">
-                            <a href="#">Login</a>
+                            <a href="https://core.code-panda.online/login">Login</a>
+                            <a href="register.php">Register</a>
                             <a href="report-abuse.php">Report Abuse</a>
                             <a href="contact.php">Contact us</a>
                         </div>
@@ -197,6 +198,7 @@
                                                 </li>
                                             </ul>
                                         </li>
+                                        <li><a href="register.php">Create Account</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -436,6 +438,7 @@
                         </li>
                     </ul>
                 </li>
+                <li><a href="register.php">Create Account</a></li>
             </ul>
         </nav>
         <div class="contact-info mt-50 mx-4">
