@@ -1,4 +1,5 @@
 <?php
+require_once "includes/functions.php";
 $site_name = "Code Panda Computers";
 $site_url = "https://code-panda.online";
 $site_email = "support@code-panda.online";

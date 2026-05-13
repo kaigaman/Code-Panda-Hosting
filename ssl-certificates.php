@@ -93,6 +93,7 @@
                         <div class="">
 
                             <a href="https://core.code-panda.online/store/ssl-certificates/go/dv" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <?php echo WhatsAppOrderBtn('DV SSL Certificate', '50,000 UGX/year'); ?>
 
                         </div>
 
@@ -133,6 +134,7 @@
                         <div class="">
 
                             <a href="https://core.code-panda.online/store/ssl-certificates/go/ov" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <?php echo WhatsAppOrderBtn('OV SSL Certificate', '250,000 UGX/year'); ?>
 
                         </div>
 
@@ -173,6 +175,7 @@
                         <div class="">
 
                             <a href="https://core.code-panda.online/store/ssl-certificates/go/ev" class="btn btn-outline-primary px-5 fw-bold">Buy Now</a>
+                            <?php echo WhatsAppOrderBtn('EV SSL Certificate', '500,000 UGX/year'); ?>
 
                         </div>
 

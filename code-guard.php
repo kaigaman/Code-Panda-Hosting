@@ -119,6 +119,7 @@
                         <div>
 
                             <a href="https://core.code-panda.online/store/codeguard/basic" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('CodeGuard Basic', '50,000 Ugx'); ?>
 
                         </div>
 
@@ -159,6 +160,7 @@
                         <div>
 
                             <a href="https://core.code-panda.online/store/codeguard/professional" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('CodeGuard Professional', '80,000 Ugx'); ?>
 
                         </div>
 
@@ -201,6 +203,7 @@
                         <div>
 
                             <a href="https://core.code-panda.online/store/codeguard/premium" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('CodeGuard Premium', '120,000 Ugx'); ?>
 
                         </div>
 
@@ -241,6 +244,7 @@
                         <div>
 
                             <a href="https://core.code-panda.online/store/codeguard/enterprise" class="btn btn-outline-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('CodeGuard Enterprise', '150,000 Ugx'); ?>
 
                         </div>
 

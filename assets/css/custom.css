@@ -847,4 +847,25 @@ h1, h2, h3, h4, h5, h6 {
   color: #40e0d0;
 }
 
+.whatsapp-order-btn {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 6px 14px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    background: #25D366;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+.whatsapp-order-btn:hover {
+    background: #1da851;
+    color: #fff;
+}
+.whatsapp-order-btn::before {
+    content: "\26AC ";
+}
 /*# sourceMappingURL=custom.css.map */

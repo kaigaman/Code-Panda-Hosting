@@ -96,6 +96,8 @@
 
                             <a href="contact.html" class="btn btn-outline-primary fw-bold px-3">Buy Now</a>
 
+                            <?php echo WhatsAppOrderBtn('WHMCS Standard', '$160'); ?>
+
                         </div>
 
                     </div>
@@ -132,6 +134,8 @@
 
                             <a href="contact.html" class="btn btn-outline-primary fw-bold px-3">Buy Now</a>
 
+                            <?php echo WhatsAppOrderBtn('WHMCS Plus', '$260'); ?>
+
                         </div>
 
                     </div>
@@ -167,6 +171,8 @@
                         <div>
 
                             <a href="contact.html" class="btn btn-outline-primary fw-bold px-3">Buy Now</a>
+
+                            <?php echo WhatsAppOrderBtn('WHMCS Premium', '$380'); ?>
 
                         </div>
 

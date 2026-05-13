@@ -76,7 +76,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-25gb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 25 GB', '10,000 Ugx'); ?></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
                     <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
@@ -89,7 +90,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-50gb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 50 GB', '20,000 Ugx'); ?></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
                     <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
@@ -103,7 +105,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-100gb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 100 GB', '40,000 Ugx'); ?></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
                     <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
@@ -116,7 +119,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-250gb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 250 GB', '60,000 Ugx'); ?></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
                     <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
@@ -129,7 +133,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-500gb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 500 GB', '120,000 Ugx'); ?></div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
                     <div class="sh-pricing-column pricing-column overflow-hidden position-relative bg-white rounded-10 deep-shadow">
@@ -142,7 +147,8 @@
                             <li><span class="me-2"><i class="fa-solid fa-desktop"></i></span>Unlimited Devices</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/acronis/acronis-1tb"
-                           class="btn btn-outline-primary fw-bold px-5">Order Now</a></div>
+                           class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Acronis 1 TB', '220,000 Ugx'); ?></div>
                 </div>
             </div>
         </div>

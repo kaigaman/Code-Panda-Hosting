@@ -127,35 +127,35 @@
                                         <span class="crm-package-price crm_yearly_price">50,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">50,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="https://core.code-panda.online/store/web-hosting/economy" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/store/web-hosting/economy" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Economy', '50,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Deluxe </span>
                                         <span class="crm-package-price crm_yearly_price">80,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">80,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="https://core.code-panda.online/store/web-hosting/deluxe" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/store/web-hosting/deluxe" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Deluxe', '80,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Premium </span>
                                         <span class="crm-package-price crm_yearly_price">120,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">120,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="https://core.code-panda.online/store/web-hosting/premium" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/store/web-hosting/premium" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Premium', '120,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Ultra</span>
                                         <span class="crm-package-price crm_yearly_price">150,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">150,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="https://core.code-panda.online/store/web-hosting/ultra" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/store/web-hosting/ultra" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Ultra', '150,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Corporate</span>
                                         <span class="crm-package-price crm_yearly_price">230,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">230,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed yearly</p>
-                                        <a href="https://core.code-panda.online/store/web-hosting/corporate" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="https://core.code-panda.online/store/web-hosting/corporate" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Corporate', '230,000 Ugx'); ?>
                                     </th>
                                 </tr>
                             </table>
@@ -279,28 +279,28 @@
                                         <span class="crm-package-price crm_yearly_price">4,320,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">360,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Express Linux VPS', '4,320,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Basic Linux VPS</span>
                                         <span class="crm-package-price crm_yearly_price">8,640,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">720,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Basic Linux VPS', '8,640,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Professional Linux VPS</span>
                                         <span class="crm-package-price crm_yearly_price">11,520,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">960,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Professional Linux VPS', '11,520,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Advanced Linux VPS</span>
                                         <span class="crm-package-price crm_yearly_price">20,160,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">1,680,000 Ugx Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Advanced Linux VPS', '20,160,000 Ugx'); ?>
                                     </th>
                                 </tr>
                             </table>
@@ -386,28 +386,28 @@
                                         <span class="crm-package-price crm_yearly_price">6,000,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">500,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Rapid Deploy Server', '6,000,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Rapid Deploy Server</span>
                                         <span class="crm-package-price crm_yearly_price">8,400,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">700,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Rapid Deploy Server', '8,400,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">E-2136 Coffee Lake Xeon</span>
                                         <span class="crm-package-price crm_yearly_price">12,000,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">1,000,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('E-2136 Coffee Lake Xeon', '12,000,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">E-2236 Coffee Lake Xeon</span>
                                         <span class="crm-package-price crm_yearly_price">17,400,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">1,450,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('E-2236 Coffee Lake Xeon', '17,400,000 Ugx'); ?>
                                     </th>
                                 </tr>
                             </table>
@@ -507,28 +507,28 @@
                                         <span class="crm-package-price crm_yearly_price">120,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">10,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Acronis 25 GB', '120,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Acronis 50 GB</span>
                                         <span class="crm-package-price crm_yearly_price">240,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">20,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Acronis 50 GB', '240,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Acronis 100 GB</span>
                                         <span class="crm-package-price crm_yearly_price">480,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">40,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Acronis 100 GB', '480,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm">Acronis 250 GB</span>
                                         <span class="crm-package-price crm_yearly_price">720,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">60,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Acronis 250 GB', '720,000 Ugx'); ?>
                                     </th>
                                 </tr>
                             </table>
@@ -700,21 +700,21 @@
                                         <span class="crm-package-price crm_yearly_price">600,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">50,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Basic SiteLock', '600,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Professional</span>
                                         <span class="crm-package-price crm_yearly_price">960,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">80,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Professional SiteLock', '960,000 Ugx'); ?>
                                     </th>
                                     <th class="text-center crm-package-wrapper">
                                         <span class="title-sm d-block">Premium</span>
                                         <span class="crm-package-price crm_yearly_price">1,440,000 Ugx</span>
                                         <span class="crm-package-price crm_monthly_price">120,000 Ugx</span>
                                         <p class="mb-3 crm-package-subtitle">billed monthly</p>
-                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a>
+                                        <a href="#" class="btn btn-sm crm-package-btn">Order Now</a><?php echo WhatsAppOrderBtn('Premium SiteLock', '1,440,000 Ugx'); ?>
                                     </th>
                                 </tr>
                             </table>
@@ -827,6 +827,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/economy" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Economy Web Hosting', '50,000 Ugx'); ?>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -846,6 +847,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/deluxe" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Deluxe Web Hosting', '80,000 Ugx'); ?>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -866,6 +868,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/premium" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Premium Web Hosting', '120,000 Ugx'); ?>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -885,6 +888,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/ultra" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Ultra Web Hosting', '150,000 Ugx'); ?>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -904,6 +908,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/corporate" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Corporate Web Hosting', '230,000 Ugx'); ?>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -922,6 +927,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-lock"></i></span>Enhanced Security</li>
                         </ul>
                         <a href="https://core.code-panda.online/store/web-hosting/custom-storage" class="btn btn-outline-primary fw-bold px-5">Order Now</a>
+                        <?php echo WhatsAppOrderBtn('Custom Web Hosting', 'Custom pricing'); ?>
                     </div>
                 </div>
             </div>

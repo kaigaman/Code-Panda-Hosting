@@ -133,6 +133,10 @@
                                     <button id="submitBtn" type="submit" class="d-none template-btn primary-btn border-0" disabled>Send Message<i class="fa-solid fa-chevron-right ms-2"></i></button>
                                 </div>
                             </form>
+                            <div class="mt-4 text-center">
+                                <p class="mb-2 fw-bold">Or enquire via WhatsApp</p>
+                                <?php echo WhatsAppOrderBtn('General Enquiry', ''); ?>
+                            </div>
                         </div>
                     </div>
                 </div>

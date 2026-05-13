@@ -81,7 +81,7 @@
                         </ul>
                         <div>
                             <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        </div>
+                        <?php echo WhatsAppOrderBtn('VPS Starter', '1,000,000 Ugx'); ?></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -106,7 +106,7 @@
                         </ul>
                         <div>
                             <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        </div>
+                        <?php echo WhatsAppOrderBtn('VPS Medium', '1,500,000 Ugx'); ?></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -130,7 +130,7 @@
                         </ul>
                         <div>
                             <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        </div>
+                        <?php echo WhatsAppOrderBtn('VPS Advanced', '2,000,000 Ugx'); ?></div>
                     </div>
                 </div>
             </div>

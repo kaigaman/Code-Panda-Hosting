@@ -53,6 +53,7 @@
                         </ul>
                         <div>
                             <a href="https://core.code-panda.online/store/sitelock/basic" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('SiteLock Basic', '50,000 Ugx'); ?>
                         </div>
                     </div>
                 </div>
@@ -74,6 +75,7 @@
                         </ul>
                         <div>
                             <a href="https://core.code-panda.online/store/sitelock/professional" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('SiteLock Professional', '80,000 UGX'); ?>
                         </div>
                     </div>
                 </div>
@@ -94,6 +96,7 @@
                         </ul>
                         <div>
                             <a href="https://core.code-panda.online/store/sitelock/premium" class="btn btn-primary fw-bold px-4">Order Now</a>
+                            <?php echo WhatsAppOrderBtn('SiteLock Premium', '120,000 UGX'); ?>
                         </div>
                     </div>
                 </div>
