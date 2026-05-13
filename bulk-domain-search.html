@@ -123,7 +123,7 @@
                                 html += '<span><strong>' + r.domain + '</strong> <span class="badge bg-success ms-2">Available</span>';
                                 if (r.price) html += ' <span class="text-muted small ms-2">' + r.price + '/yr</span>';
                                 html += '</span>';
-                                html += '<a href="' + r.whmcs_url + '" class="btn btn-sm btn-primary" target="_blank">Register</a>';
+                                html += '<a href="' + r.order_url + '" class="btn btn-sm btn-primary" target="_blank">Register</a>';
                                 html += '</div>';
                             } else if (r.status === "unavailable") {
                                 html += '<div class="list-group-item d-flex justify-content-between align-items-center">';
