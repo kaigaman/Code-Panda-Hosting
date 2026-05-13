@@ -50,7 +50,7 @@ $name = $parts[0];
 $price = isset($tlds[$ext]) ? $tlds[$ext][$action] : null;
 
 if ($action === 'transfer') {
-    $whmcs_url = "/order/domain-transfer&query=" . urlencode($domain);
+    $whmcs_url = "/order/domain-transfer?domain=" . urlencode($domain);
 } else {
     $whmcs_url = "/order/domain-registration?domain=" . urlencode($domain);
 }
