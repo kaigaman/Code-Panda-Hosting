@@ -56,8 +56,7 @@
                                         <li><span class="me-2"><i class="fa-solid fa-cog"></i></span> Security and management controls</li>
                                     </ul>
                                     <div class="text-start">
-                                        <a href="cartefe9.html?package" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                                        <?php echo WhatsAppOrderBtn('Business Starter', '290,000 Ugx'); ?>
+                                        <a href="cartefe9.php?package" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
                                     </div>
                                 </div>
                             </div>
@@ -72,8 +71,7 @@
                                         <li><span class="me-2"><i class="fa-solid fa-cog"></i></span> Security and management controls</li>
                                     </ul>
                                     <div class="text-start">
-                                        <a href="cartefe9.html?package" class="btn btn-outline-primary fw-bold px-auto">Purchase Plan</a>
-                                        <?php echo WhatsAppOrderBtn('Business Standard', '580,000 Ugx'); ?>
+                                        <a href="cartefe9.php?package" class="btn btn-outline-primary fw-bold px-auto">Purchase Plan</a>
                                     </div>
                                 </div>
                             </div>
@@ -88,8 +86,7 @@
                                         <li><span class="me-2"><i class="fa-solid fa-cog"></i></span> Enhanced security and management controls, including Vault and advanced endpoint management</li>
                                     </ul>
                                     <div class="text-start">
-                                        <a href="cartefe9.html?package" class="btn btn-outline-primary fw-bold px-auto">Purchase Plan</a>
-                                        <?php echo WhatsAppOrderBtn('Business Plus', '870,000 Ugx'); ?>
+                                        <a href="cartefe9.php?package" class="btn btn-outline-primary fw-bold px-auto">Purchase Plan</a>
                                     </div>
                                 </div>
                             </div>
@@ -338,3 +335,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

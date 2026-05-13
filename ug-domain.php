@@ -100,8 +100,6 @@
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
-                        <?php echo WhatsAppOrderBtn('.ug Domain', '100,000 Ugx'); ?>
-
                         <span class="circle-shape shape-1 position-absolute"></span>
 
                         <span class="circle-shape shape-2 position-absolute"></span>
@@ -123,8 +121,6 @@
                         <span class="subtitle">Per year</span>
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
-
-                        <?php echo WhatsAppOrderBtn('.co.ug Domain', '100,000 Ugx'); ?>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -148,8 +144,6 @@
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
-                        <?php echo WhatsAppOrderBtn('.ac.ug Domain', '100,000 Ugx'); ?>
-
                         <span class="circle-shape shape-1 position-absolute"></span>
 
                         <span class="circle-shape shape-2 position-absolute"></span>
@@ -171,8 +165,6 @@
                         <span class="subtitle">Per year</span>
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
-
-                        <?php echo WhatsAppOrderBtn('.go.ug Domain', '100,000 Ugx'); ?>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -196,8 +188,6 @@
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
-                        <?php echo WhatsAppOrderBtn('.sc.ug Domain', '100,000 Ugx'); ?>
-
                         <span class="circle-shape shape-1 position-absolute"></span>
 
                         <span class="circle-shape shape-2 position-absolute"></span>
@@ -220,8 +210,6 @@
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
 
-                        <?php echo WhatsAppOrderBtn('.or.ug Domain', '100,000 Ugx'); ?>
-
                         <span class="circle-shape shape-1 position-absolute"></span>
 
                         <span class="circle-shape shape-2 position-absolute"></span>
@@ -241,8 +229,6 @@
                         <span class="subtitle">Per year</span>
 
                         <a href="https://core.code-panda.online/cart.php?a=add&amp;domain=register" class="btn btn-outline-primary px-4">Register Now</a>
-
-                        <?php echo WhatsAppOrderBtn('.org.ug Domain', '100,000 Ugx'); ?>
 
                         <span class="circle-shape shape-1 position-absolute"></span>
 
@@ -651,3 +637,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

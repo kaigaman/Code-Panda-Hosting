@@ -80,8 +80,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-check"></i></span> All Linux versions</li>
                         </ul>
                         <div>
-                            <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('VPS Starter', '1,000,000 Ugx'); ?></div>
+                            <a href="cartb090.php?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -105,8 +104,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-check"></i></span> All Linux versions</li>
                         </ul>
                         <div>
-                            <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('VPS Medium', '1,500,000 Ugx'); ?></div>
+                            <a href="cartb090.php?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a></div>
                     </div>
                 </div>
                 <div class="col-xxl-3 col-lg-4 col-md-6 col-sm-10">
@@ -129,8 +127,7 @@
                             <li><span class="me-2"><i class="fa-solid fa-check"></i></span> All Linux versions</li>
                         </ul>
                         <div>
-                            <a href="cartb090.html?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('VPS Advanced', '2,000,000 Ugx'); ?></div>
+                            <a href="cartb090.php?package=" class="px-4 btn btn-outline-primary fw-bold">Order Now</a></div>
                     </div>
                 </div>
             </div>
@@ -442,3 +439,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

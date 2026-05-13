@@ -54,7 +54,6 @@
                                     <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                                     <div>
                                         <a href="contact.html" class="btn btn-outline-primary fw-bold px-4 mt-3">Purchase Plan</a>
-                                        <?php echo WhatsAppOrderBtn('Basic Reseller', '500,000 UGX'); ?>
                                     </div>
                                 </div>
                             </div>
@@ -82,7 +81,6 @@
                                     <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                                     <div>
                                         <a href="contact.html" class="btn btn-outline-primary fw-bold px-4 mt-3">Purchase Plan</a>
-                                        <?php echo WhatsAppOrderBtn('Premium Reseller', '1,000,000 UGX'); ?>
                                     </div>
                                 </div>
                             </div>
@@ -110,7 +108,6 @@
                                     <button class="expand-btn mt-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                                     <div>
                                         <a href="contact.html" class="btn btn-outline-primary fw-bold px-4 mt-3">Purchase Plan</a>
-                                        <?php echo WhatsAppOrderBtn('Supreme Reseller', '1,500,000 UGX'); ?>
                                     </div>
                                 </div>
                             </div>
@@ -324,3 +321,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

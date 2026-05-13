@@ -80,8 +80,6 @@
 
                             <a href="contact.html" class="btn btn-outline-primary px-3 fw-bold">Order Now</a>
 
-                            <?php echo WhatsAppOrderBtn('cPanel Solo', '$12/month'); ?>
-
                         </div>
 
                     </div>
@@ -106,8 +104,6 @@
 
                             <a href="contact.html" class="btn btn-outline-primary px-3 fw-bold">Order Now</a>
 
-                            <?php echo WhatsAppOrderBtn('cPanel Admin', '$19/month'); ?>
-
                         </div>
 
                     </div>
@@ -131,8 +127,6 @@
                         <div>
 
                             <a href="contact.html" class="btn btn-outline-primary px-3 fw-bold">Order Now</a>
-
-                            <?php echo WhatsAppOrderBtn('cPanel Pro', '$24/month'); ?>
 
                         </div>
 
@@ -425,3 +419,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

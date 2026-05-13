@@ -68,7 +68,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/rapid-deploy-server-intel-xeon-e3-1230-v3g-8gb" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('Rapid Deploy Server 8GB', '500,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">500,000 Ugx<span>/month</span></h4>
                                 </div>
@@ -100,7 +99,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/rapid-deploy-server-32gb" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('Rapid Deploy Server 32GB', '700,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">700,000 Ugx <span>/month</span></h4>
                                 </div>
@@ -132,7 +130,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/e-2136-coffee-lake-xeon" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('E-2136 Coffee Lake Xeon', '1,000,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">1,000,000 Ugx <span>/month</span></h4>
                                 </div>
@@ -164,7 +161,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/e-2236-coffee-lake-xeon" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('E-2236 Coffee Lake Xeon', '1,450,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">1,450,000 Ugx <span>/month</span></h4>
                                 </div>
@@ -196,7 +192,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/e-2288g-coffee-lake-xeon" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('E-2288G Coffee Lake Xeon', '2,000,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">2,000,000 Ugx <span>/month</span></h4>
                                 </div>
@@ -228,7 +223,6 @@
                             </div>
                             <div class="item-bottom d-flex align-items-center flex-wrap mt-4">
                                 <a href="https://core.code-panda.online/store/dedicated-servers/enterprise-4216-16-core" class="template-btn primary-btn rounded-pill btn-small order-2 order-sm-1">Purchase Now</a>
-                                <?php echo WhatsAppOrderBtn('Enterprise 4216 16 Core', '3,000,000 Ugx'); ?>
                                 <div class="item-price-amount order-1 order-sm-2">
                                     <h4 class="mb-0">3,000,000 Ugx <span>/month</span></h4>
                                 </div>
@@ -606,3 +600,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

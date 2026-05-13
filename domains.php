@@ -51,8 +51,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.com', '40,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -61,8 +60,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.org', '40,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -71,8 +69,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">40,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.net', '40,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -81,8 +78,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">70,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.biz', '70,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -91,8 +87,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -101,8 +96,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.co.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
@@ -111,8 +105,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.ac.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -121,8 +114,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.go.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -131,8 +123,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.sc.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -141,8 +132,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.or.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -151,8 +141,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.org.ug', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -161,8 +150,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">130,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.shop', '130,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -171,8 +159,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">110,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.church', '110,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -181,8 +168,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">70,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.app', '70,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -191,8 +177,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">80,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.africa', '80,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 
 <div class="col-xl-3 col-lg-4 col-sm-6">
@@ -201,8 +186,7 @@ starting from 40,000 Ugx a year.</p>
 <span class="dm-offer-badge fw-bold text-white position-absolute">Popular</span>
 
 <h5 class="mt-0 text-primary">100,000 Ugx</h5>
-<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a>
-<?php echo WhatsAppOrderBtn('.tours', '100,000 Ugx'); ?></div>
+<span class="subtitle">Per year</span> <a class="btn btn-outline-primary px-4" href="https://core.code-panda.online/cart.php?a=add&amp;domain=register">Register Now</a></div>
 </div>
 </div>
 
@@ -574,3 +558,4 @@ If a third party purchases the domain name prior to the registry redemption peri
 </section>
 
 <?php include "includes/footer.php"; ?>
+

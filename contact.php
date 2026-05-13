@@ -135,7 +135,6 @@
                             </form>
                             <div class="mt-4 text-center">
                                 <p class="mb-2 fw-bold">Or enquire via WhatsApp</p>
-                                <?php echo WhatsAppOrderBtn('General Enquiry', ''); ?>
                             </div>
                         </div>
                     </div>
@@ -145,3 +144,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+

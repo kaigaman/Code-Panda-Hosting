@@ -60,8 +60,7 @@
                         </ul>
                         <button class="expand-btn my-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                         <div>
-                            <a href="cartefe9.html?package" class="btn btn-outline-primary px-4">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('Hyperslice Cloud S1', '250,000 UGX'); ?></div>
+                            <a href="cartefe9.php?package" class="btn btn-outline-primary px-4">Order Now</a></div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-sm-10">
@@ -91,8 +90,7 @@
                         </ul>
                         <button class="expand-btn my-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                         <div>
-                            <a href="cartefe9.html?package" class="btn btn-outline-primary px-4">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('Hyperslice Cloud S2', '350,000 UGX'); ?></div>
+                            <a href="cartefe9.php?package" class="btn btn-outline-primary px-4">Order Now</a></div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-6 col-sm-10">
@@ -122,8 +120,7 @@
                         </ul>
                         <button class="expand-btn my-4"><i class="fa-solid fa-angle-down"></i>Expand Feature</button>
                         <div>
-                            <a href="cartefe9.html?package" class="btn btn-outline-primary px-4">Order Now</a>
-                        <?php echo WhatsAppOrderBtn('Hyperslice Cloud S3', '500,000 UGX'); ?></div>
+                            <a href="cartefe9.php?package" class="btn btn-outline-primary px-4">Order Now</a></div>
                     </div>
                 </div>
             </div>
@@ -411,3 +408,4 @@
     </section>
 
 <?php include "includes/footer.php"; ?>
+
