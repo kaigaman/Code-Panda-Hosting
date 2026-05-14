@@ -194,7 +194,7 @@
 <script src="assets/js/vendors/waypoints.js"></script>
 <script src="assets/js/vendors/counterup.js"></script>
 <script src="assets/js/vendors/isotop.pkgd.min.js"></script>
-<script src="assets/js/app77ae.js?ver=2"></script>
+<script src="assets/js/app.js?ver=3"></script>
 <?php include "includes/whatsapp.php"; ?>
 </body>
 </html>
