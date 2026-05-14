@@ -1,0 +1,2 @@
+-keep class com.codepanda.app.network.models.** { *; }
+-keepclassmembers class com.codepanda.app.network.models.** { *; }

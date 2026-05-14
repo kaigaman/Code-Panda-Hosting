@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Code Panda Computers</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_domains">Domains</string>
+    <string name="nav_whatsapp">WhatsApp</string>
+    <string name="nav_account">Account</string>
+    <string name="domain_checker_title">Domain Checker</string>
+    <string name="domain_hint">Enter domain name…</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_check_another">Check Another</string>
+    <string name="btn_register">Register Now</string>
+    <string name="btn_retry">Retry</string>
+    <string name="whois_title">WHOIS Lookup</string>
+    <string name="whois_hint">Enter domain for WHOIS…</string>
+    <string name="btn_whois">Lookup</string>
+    <string name="available">Available!</string>
+    <string name="unavailable">Not Available</string>
+    <string name="error_occurred">Something went wrong</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="loading">Loading…</string>
+    <string name="whatsapp_title">Order via WhatsApp</string>
+    <string name="whatsapp_message">Hi Code Panda! I would like to place an order.</string>
+    <string name="btn_open_whatsapp">Open WhatsApp</string>
+    <string name="account_title">My Account</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="cache_cleared">Cache cleared</string>
+    <string name="app_description">Code Panda Computers - Web Hosting &amp; Domain Registration in Uganda</string>
+</resources>

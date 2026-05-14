@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.codepanda.app.ui.webview.WebViewFragment"
+        android:label="@string/nav_home"
+        tools:layout="@layout/fragment_webview">
+        <argument
+            android:name="url"
+            android:defaultValue="https://code-panda.online"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_domains"
+        android:name="com.codepanda.app.ui.domain.DomainCheckerFragment"
+        android:label="@string/domain_checker_title"
+        tools:layout="@layout/fragment_domain_checker" />
+
+    <fragment
+        android:id="@+id/nav_whatsapp"
+        android:name="com.codepanda.app.ui.whatsapp.WhatsAppFragment"
+        android:label="@string/whatsapp_title"
+        tools:layout="@layout/fragment_whatsapp" />
+
+    <fragment
+        android:id="@+id/nav_account"
+        android:name="com.codepanda.app.ui.account.AccountFragment"
+        android:label="@string/account_title"
+        tools:layout="@layout/fragment_webview">
+        <argument
+            android:name="url"
+            android:defaultValue="https://core.code-panda.online/login"
+            app:argType="string" />
+    </fragment>
+</navigation>
