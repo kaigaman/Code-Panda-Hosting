@@ -18,8 +18,8 @@
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="600" />
-    <link rel="icon" href="assets/img/favicon.ico" />
-    <link rel="shortcut" href="assets/img/favicon.png" />
+    <link rel="icon" href="assets/img/logo.png" />
+    <link rel="shortcut" href="assets/img/logo.png" />
     <link rel="stylesheet" href="assets/css/main.css" />
     <link rel="stylesheet" href="assets/css/custom.css" />
 </head>
