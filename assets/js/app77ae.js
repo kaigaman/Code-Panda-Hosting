@@ -536,35 +536,41 @@
 
   $("body").on("submit", "#domainChecker", function (e) {
     e.preventDefault();
-    console.log(this);
-    
     let domain = $("#" + $(this)[0].id + " input[name=domain]").val();
-    let action = $("#" + $(this)[0].id + " input[name=action]").val();
-    let url = "https://core.code-panda.online/cart.php?a=add&domain="+action+"&query="+domain;
-
-    window.location.replace(url);
-    return true;
-    let elm = {
-      status: $("#domainSearchResults"),
-    };
+    let action = $("#" + $(this)[0].id + " input[name=action]").val() || "register";
+    let elm = $("#domainSearchResults");
 
     $.ajax({
-      url: "./domain-checker.php?domain=" + domain +"&action="+ action,
+      url: "./domain-checker.php?domain=" + encodeURIComponent(domain) + "&action=" + encodeURIComponent(action),
       type: "GET",
-      dataType: "html",
-      processData: false,
-      contentType: false,
+      dataType: "json",
       beforeSend: function() {
-        elm.status.html("searching...");
+        elm.html('<span class="text-muted">Searching...</span>');
       },
-      error: function(error) {
-        elm.status.html( error.responseText);
+      error: function(jqXHR) {
+        elm.html('<span class="text-danger">Error looking up domain. Please try again.</span>');
       },
-      success: function(response) {
-        elm.status.html(response);
-      },
-      complete: function() {
-        elm.status.removeClass("loading");
+      success: function(res) {
+        if (res.status === "available") {
+          let priceHtml = res.price ? " <strong>" + res.price + "</strong>" : "";
+          elm.html(
+            '<div class="alert alert-success"><strong>' + res.domain + '</strong> is available!' + priceHtml +
+            '<br><a href="' + res.order_url + '" class="btn btn-primary btn-sm mt-2">Register Now</a></div>'
+          );
+        } else if (res.status === "unavailable") {
+          let html = '<div class="alert alert-danger"><strong>' + res.domain + '</strong> is not available.';
+          if (res.suggestions && res.suggestions.length) {
+            html += '<div class="mt-2"><strong>Suggestions:</strong><ul class="list-unstyled mt-1">';
+            res.suggestions.forEach(function(s) {
+              html += '<li><a href="' + s.url + '" class="btn btn-sm btn-outline-primary me-1 mt-1">' + s.domain + ' (' + s.price + ')</a></li>';
+            });
+            html += '</ul></div>';
+          }
+          html += '</div>';
+          elm.html(html);
+        } else {
+          elm.html('<span class="text-danger">' + (res.message || "Error checking domain.") + '</span>');
+        }
       }
     });
   });
