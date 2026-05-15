@@ -5,16 +5,15 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.navArgs
-import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
-import com.codepanda.app.R
 import com.codepanda.app.databinding.FragmentWebviewBinding
 import com.codepanda.app.util.NetworkUtils
 
-class WebViewFragment : Fragment() {
+open class WebViewFragment : Fragment() {
     private var _binding: FragmentWebviewBinding? = null
     private val binding get() = _binding!!
     private val args: WebViewFragmentArgs by navArgs()
@@ -37,7 +36,14 @@ class WebViewFragment : Fragment() {
 
         if (savedInstanceState == null) {
             loadUrl(args.url)
+        } else {
+            savedInstanceState.getString(KEY_URL)?.let { loadUrl(it) }
         }
+    }
+
+    override fun onSaveInstanceState(outState: Bundle) {
+        super.onSaveInstanceState(outState)
+        outState.putString(KEY_URL, currentUrl)
     }
 
     private fun setupWebView() {
@@ -56,18 +62,27 @@ class WebViewFragment : Fragment() {
                 userAgentString = settings.userAgentString + " CodePandaAndroid/1.0"
             }
 
+            webChromeClient = object : WebChromeClient() {
+                override fun onProgressChanged(view: WebView?, newProgress: Int) {
+                    if (newProgress < 100) {
+                        binding.progressBar.visibility = View.VISIBLE
+                        binding.progressBar.progress = newProgress
+                    } else {
+                        binding.progressBar.visibility = View.GONE
+                    }
+                }
+            }
+
             webViewClient = object : WebViewClient() {
                 override fun onPageStarted(view: WebView?, url: String?, favicon: Bitmap?) {
                     super.onPageStarted(view, url, favicon)
                     currentUrl = url
-                    binding.progressBar.visibility = View.VISIBLE
                     binding.offlineView.visibility = View.GONE
                     binding.webview.visibility = View.VISIBLE
                 }
 
                 override fun onPageFinished(view: WebView?, url: String?) {
                     super.onPageFinished(view, url)
-                    binding.progressBar.visibility = View.GONE
                     binding.swipeRefresh.isRefreshing = false
                 }
 
@@ -76,9 +91,8 @@ class WebViewFragment : Fragment() {
                     description: String?, failingUrl: String?
                 ) {
                     super.onReceivedError(view, errorCode, description, failingUrl)
-                    binding.progressBar.visibility = View.GONE
                     binding.swipeRefresh.isRefreshing = false
-                    if (!NetworkUtils.isOnline(requireContext())) {
+                    if (isAdded && !NetworkUtils.isOnline(requireContext())) {
                         showOffline()
                     }
                 }
@@ -94,6 +108,7 @@ class WebViewFragment : Fragment() {
 
     private fun setupRetryButton() {
         binding.btnRetry.setOnClickListener {
+            if (!isAdded) return@setOnClickListener
             if (NetworkUtils.isOnline(requireContext())) {
                 binding.offlineView.visibility = View.GONE
                 binding.webview.visibility = View.VISIBLE
@@ -109,6 +124,7 @@ class WebViewFragment : Fragment() {
 
     fun loadUrl(url: String) {
         currentUrl = url
+        if (!isAdded) return
         if (NetworkUtils.isOnline(requireContext())) {
             binding.offlineView.visibility = View.GONE
             binding.webview.visibility = View.VISIBLE
@@ -130,5 +146,9 @@ class WebViewFragment : Fragment() {
     override fun onDestroyView() {
         super.onDestroyView()
         _binding = null
+    }
+
+    companion object {
+        private const val KEY_URL = "webview_url"
     }
 }

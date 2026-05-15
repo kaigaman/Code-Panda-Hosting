@@ -29,4 +29,11 @@
     <string name="clear_cache">Clear Cache</string>
     <string name="cache_cleared">Cache cleared</string>
     <string name="app_description">Code Panda Computers - Web Hosting &amp; Domain Registration in Uganda</string>
+    <string name="enter_domain">Please enter a domain</string>
+    <string name="domain_unavailable">%s is Not Available</string>
+    <string name="no_whois_data">No WHOIS data found</string>
+    <string name="network_error">Network error: %s</string>
+    <string name="whois_result">WHOIS Result for %s</string>
+    <string name="chat_with_us">Chat with us on WhatsApp to place your order. Tell us what you need and we\'ll help you get started!</string>
+    <string name="at_price">at %s</string>
 </resources>

@@ -4,12 +4,10 @@ import android.app.Application
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.os.Build
-import com.google.firebase.FirebaseApp
 
 class CodePandaApp : Application() {
     override fun onCreate() {
         super.onCreate()
-        FirebaseApp.initializeApp(this)
         createNotificationChannel()
     }
 
@@ -20,7 +18,7 @@ class CodePandaApp : Application() {
                 "Code Panda Updates",
                 NotificationManager.IMPORTANCE_HIGH
             ).apply {
-                description = "Order confirmations and promotional updates"
+                description = "Order confirmations and updates"
             }
             val manager = getSystemService(NotificationManager::class.java)
             manager.createNotificationChannel(channel)

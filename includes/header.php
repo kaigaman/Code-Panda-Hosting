@@ -95,6 +95,7 @@
                                         </li>
                                         <li><a href="hosting.php">Hosting</a></li>
                                         <li><a href="dedicated-server.php">Dedicated Servers</a></li>
+                                        <li><a href="codepanda.apk">Download</a></li>
                                         <li class="has-submenu"><a href="#">Security</a>
                                             <div class="submenu-wrapper menu-list theme-megamenu">
                                                 <div class="row">
@@ -340,6 +341,7 @@
                     </ul>
                 </li>
                 <li><a href="dedicated-server.php">Dedicated Servers</a></li>
+                <li><a href="codepanda.apk">Download</a></li>
                 <li class="has-submenu">
                     <a href="#">Security</a>
                     <ul>

@@ -5,3 +5,10 @@ _backup_html/
 *.log
 .DS_Store
 Thumbs.db
+*.apk
+*.keystore
+android/keystore.properties
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/

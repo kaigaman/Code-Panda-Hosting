@@ -35,7 +35,7 @@
         android:id="@+id/whatsapp_desc"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Chat with us on WhatsApp to place your order. Tell us what you need and we'll help you get started!"
+        android:text="@string/chat_with_us"
         android:textSize="14sp"
         android:textColor="@color/text_secondary"
         android:gravity="center"
